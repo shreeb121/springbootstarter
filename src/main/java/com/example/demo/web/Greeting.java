@@ -10,7 +10,7 @@ public class Greeting {
 	@RequestMapping(value="/methodlevel", method = RequestMethod.GET)
 	public String Hello()
 	{
-		return "<h1>Hello!<h1>";
+		return "<h1>Hello there!<h1>";
 	}
 	
 
