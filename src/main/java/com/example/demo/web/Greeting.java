@@ -13,6 +13,4 @@ public class Greeting {
 		return "<h1>Hello there!<h1>";
 	}
 	
-
-
 }
